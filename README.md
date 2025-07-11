@@ -4,7 +4,7 @@ Below you can find some additional information about the project.
 ## 🔎 **Project overview**
 This program was used for a scaled-down version of a speed camera.
 The device itself was composed of a Raspberry Pi 5 and two ArduCam B0386 cameras for video capture.
-However it supports velocity measurement form video files.
+However it supports velocity measurement form video files. <br>
 A racing car was used during testing to simulate real-world conditions.
 
 The first camera detects when a car enters measurement section on a road and when the car leaves this section capturing timestamps of both events. By this method it is easy to calculate the velocity of the vehicle.
