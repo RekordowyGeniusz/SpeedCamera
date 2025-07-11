@@ -11,7 +11,7 @@ The first camera detects when a car enters measurement section of a road and whe
 The second camera captures the license plate number of a vehicle by utilizing a specifically trained yolo model and EasyOCR library for reading text on the license plate. <br>
 If the car exceeded the speed limit then an image of the vehicle is captured and stored, additionally a .txt file is created with data connected to the vehicle itself (e.g. the velocity that the vehicle was traveling at, license plate number, etc.). <br>
 <br>
-Also for easier UX, an overlay was created which allows changing crucial parameters (like the coordinates on the window which correspond to the measurement track start and it's end etc.) without the need to manually change the code.<br>
+To improve user experience, an overlay interface was created which allows changing crucial parameters (like the coordinates on the window which correspond to the measurement track start and it's end etc.) without the need to manually change the code.<br>
 <br>
 **Feedback** about the code and logic would be well recieved!<br>
 <br>
