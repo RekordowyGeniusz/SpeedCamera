@@ -12,10 +12,10 @@ If the car exceeded the speed limit then an image of the vehicle is captured and
 
 Also for easier UX, an overlay was created which allows changing crucial parameters (like the coordinates on the window which correspond to the measurement track start and it's end etc.) without the need to manually change the code.
 
+**Feedback** about the code and logic would be well recieved!
+
 ## 📦 **Requirements**
 Apart from requirements.txt file, it may be needed to install PyTorch and Cuda drivers.  
-
-**Feedback** about the code and logic would be well recieved!
 
 ## 📄 **License**
 This project is licensed under the MIT License. See the LICENSE.md file for details.
