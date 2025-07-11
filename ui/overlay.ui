@@ -101,7 +101,7 @@ color:black;</string>
     <string notr="true">color:white;</string>
    </property>
    <property name="text">
-    <string>Skala powiększenia:</string>
+    <string>Magnification:</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignmentFlag::AlignCenter</set>
@@ -743,7 +743,7 @@ color:black;</string>
     <string notr="true">color:white;</string>
    </property>
    <property name="text">
-    <string>Plik pomiaru prędkości:</string>
+    <string>Velocity measurement file:</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignmentFlag::AlignCenter</set>
@@ -796,7 +796,7 @@ color:black;</string>
     <string notr="true">color:white;</string>
    </property>
    <property name="text">
-    <string>Plik do ANPR:</string>
+    <string>File for ANPR:</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignmentFlag::AlignCenter</set>

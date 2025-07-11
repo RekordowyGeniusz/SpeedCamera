@@ -38,7 +38,7 @@ def detection(scale, start1, end1, speed_measurement_length, max_velocity, speed
 
         # if there's an error while reading a file
         if not ret:
-            print("Plik nie zawiera więcej klatek lub nastąpił inny błąd podczas wczytywania kaltek!")
+            print("The video file has ended or an error occurred during loading of the file")
             break
             
         # detecting vehicles
