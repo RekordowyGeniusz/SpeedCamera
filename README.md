@@ -18,5 +18,13 @@ To improve user experience, an overlay interface was created which allows changi
 ## 📦 **Requirements**
 Apart from requirements.txt file, it may be needed to install Cuda drivers and PyTorch.  <br>
 <br>
+## 👥 Authors
+- [@RekordowyGeniusz](https://github.com/RekordowyGeniusz)
+- [@MaciejMi](https://github.com/MaciejMi)
+- [@rtekdev](https://github.com/rtekdev)  
+- [@Szubzdov](https://github.com/Szubzdov)  
+- [@SzymekPy](https://github.com/SzymekPy)  
+ <br>
+<br>
 ## 📄 **License**
 This project is licensed under the MIT License. See the LICENSE.md file for details.<br>
