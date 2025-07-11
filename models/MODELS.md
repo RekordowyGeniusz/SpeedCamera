@@ -1,0 +1,3 @@
+yolov8n.pt is only supposed to be used for testing purposes if something doesnt work with object detection processes - yolov8n
+car_detection_model.pt is supposed to be used for detecting cars (so it would be the upper camera) - this model is trained with yolov11n
+license_plate_detector.pt is supposed to be used for detecting license plates (so it would be the lower camera) - this model is trained with yolov10n
