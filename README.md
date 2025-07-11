@@ -13,7 +13,7 @@ If the car exceeded the speed limit then an image of the vehicle is captured and
 <br>
 To improve user experience, an overlay interface was created which allows changing crucial parameters (like the coordinates on the window which correspond to the measurement track start and it's end etc.) without the need to manually change the code.<br>
 <br>
-**Feedback** on the code and logic would be well received!<br>
+**Feedback** on the code and logic would be well received! 😄<br>
 <br>
 ## 📦 **Requirements**
 Apart from requirements.txt file, it may be needed to install PyTorch and Cuda drivers.  <br>
