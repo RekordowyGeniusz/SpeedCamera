@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 Below you can find some additional information about the project.
-
+<br>
 ## 🔎 **Project overview**
 This program was used for a scaled-down version of a speed camera.
 The device itself was composed of a Raspberry Pi 5 and two ArduCam B0386 cameras for video capture.
