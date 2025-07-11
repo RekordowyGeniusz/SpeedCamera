@@ -1,4 +1,5 @@
-Here are listed some additional information about the project.
+## 👋 Welcome!
+Below you can find some additional information about the project.
 
 ## 🔎 **Project overview**
 This program was used for a scaled-down version of a speed camera.
