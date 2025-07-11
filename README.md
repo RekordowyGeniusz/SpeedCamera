@@ -1,7 +1,9 @@
 Here are listed some additional information about the project.
 
+## 🔎 **Project overview**
 This program was used for a scaled-down version of a speed camera.
 The device itself was composed of a Raspberry Pi 5 and two ArduCam B0386 cameras for video capture.
+However it supports velocity measurement form video files.
 A racing car was used during testing to simulate real-world conditions.
 
 The first camera detects when a car enters measurement section on a road and when the car leaves this section capturing timestamps of both events. By this method it is easy to calculate the velocity of the vehicle.
@@ -10,4 +12,10 @@ If the car exceeded the speed limit then an image of the vehicle is captured and
 
 Also for easier UX, an overlay was created which allows changing crucial parameters (like the coordinates on the window which correspond to the measurement track start and it's end etc.) without the need to manually change the code.
 
-Feedback about the code and logic would be well recieved!
+## 📦 **Requirements**
+Apart from requirements.txt file, it may be needed to install PyTorch and Cuda drivers.  
+
+**Feedback** about the code and logic would be well recieved!
+
+## 📄 **License**
+This project is licensed under the MIT License. See the LICENSE.md file for details.
