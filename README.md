@@ -7,7 +7,7 @@ The device itself was composed of a Raspberry Pi 5 and two ArduCam B0386 cameras
 However it supports velocity measurement form video files.<br>
 A racing car was used during testing to simulate real-world conditions.<br>
 
-The first camera detects when a car enters measurement section on a road and when the car leaves this section capturing timestamps of both events. By this method it is easy to calculate the velocity of the vehicle.<br>
+The first camera detects when a car enters measurement section on a road and when the car leaves this section capturing timestamps of both events. By utilising this method it is easy to calculate the velocity of the vehicle.<br>
 The second camera captures the license plate number of a vehicle by utilizing a specifically trained yolo model and EasyOCR library for reading text on the license plate. <br>
 If the car exceeded the speed limit then an image of the vehicle is captured and stored and a .txt file is created with data connected to the vehicle itself (e.g. the velocity that the vehicle was traveling at, license plate number, etc.). <br>
 <br>
