@@ -29,14 +29,14 @@ def write_file(output_path, results, max_velocity=90):
     with open(output_path, 'w', encoding="utf-8") as f:
         
         for car_id in results.keys():
-            verdict = "Bez mandatu!"
+            verdict = "No ticket!"
             percent = results[car_id][2] * 100
             velocity = results[car_id][3] * 3.6
 
             if velocity > float(max_velocity):
-                verdict = "Mandat!"
+                verdict = "Ticket!"
 
-            f.write("'{}.jpg',\nczas przejazdu:{} sekund,\nnr rejestracji:{},\npewność tekstu:{}%,\npredkosc przejazdu:{} km/h,\n{}\n".format(car_id, 
+            f.write("'{}.jpg',\ntravel speed:{} seconds,\nlicense plate number:{},\ntext confidence:{}%,\nvehicle's velocity:{} km/h,\n{}\n".format(car_id, 
                                                                                                                                                 results[car_id][0], 
                                                                                                                                                 results[car_id][1], 
                                                                                                                                                 round(percent, 1), 
