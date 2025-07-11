@@ -26,5 +26,6 @@ Apart from requirements.txt file, it may be needed to install Cuda drivers and P
 - [@SzymekPy](https://github.com/SzymekPy)  
  <br>
 <br>
+
 ## 📄 **License**
 This project is licensed under the MIT License. See the LICENSE.md file for details.<br>
