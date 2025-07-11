@@ -16,7 +16,7 @@ To improve user experience, an overlay interface was created which allows changi
 **Feedback** on the code and logic would be well received! 😄<br>
 <br>
 ## 📦 **Requirements**
-Apart from requirements.txt file, it may be needed to install PyTorch and Cuda drivers.  <br>
+Apart from requirements.txt file, it may be needed to install Cuda drivers and PyTorch.  <br>
 <br>
 ## 📄 **License**
 This project is licensed under the MIT License. See the LICENSE.md file for details.<br>
